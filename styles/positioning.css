@@ -10,8 +10,8 @@ header {
 }
 
 nav {
-  /*position: relative;
-  right: 5rem;*/
+  /* position: relative;
+  right: 5rem; */
 }
 
 .card {
@@ -35,6 +35,16 @@ nav {
 
 .card-fave img {
   border-radius: 50%;
+}
+
+.card-quick {
+  position: absolute;
+  right: 10rem;
+  top: 7rem;
+}
+
+.card-quick img {
+  border-radius: 50%
 }
 
 .card-headline {
